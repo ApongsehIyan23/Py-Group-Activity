@@ -1,6 +1,6 @@
 def save_message(message):
     """
-    Saves the given message to user_message.txt.
+    Saving the message to user_message.txt.
     Handles file write errors gracefully.
     """
     try:
